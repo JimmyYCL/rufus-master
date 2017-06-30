@@ -1,0 +1,80 @@
+﻿  badblocks.c
+  dos_locale.c
+  drive.c
+  format.c
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\dos_locale.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\drive.c)
+..\dos_locale.c(1020): warning C4819: The file contains a character that cannot be represented in the current code page (0). Save the file in Unicode format to prevent data loss
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\badblocks.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\format.c)
+  dos.c
+  icon.c
+  iso.c
+..\iso.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+..\format.c(844): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+..\format.c(1033): error C2059: syntax error: '?'
+..\format.c(1646): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+..\format.c(1993): error C2059: syntax error: '?'
+  localization.c
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\dos.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\icon.c)
+  net.c
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\iso.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\localization.c)
+..\iso.c(418): error C2059: syntax error: '?'
+..\iso.c(559): error C2059: syntax error: '?'
+  parser.c
+..\iso.c(774): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  pki.c
+  process.c
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\net.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\parser.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\process.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\pki.c)
+d:\work_data\study\bootfromusb\rufus-master\src\settings.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\net.c)
+  rufus.c
+  checksum.c
+  smart.c
+..\smart.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  stdfn.c
+d:\work_data\study\bootfromusb\rufus-master\src\db.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\checksum.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\checksum.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\smart.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\stdfn.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\rufus.c)
+d:\work_data\study\bootfromusb\rufus-master\src\settings.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\rufus.c)
+..\rufus.c(1787): error C2065: 'LEFT_TO_RIGHT_EMBEDDING': undeclared identifier
+..\rufus.c(1787): error C2143: syntax error: missing ')' before 'string'
+..\rufus.c(1787): error C2059: syntax error: ')'
+..\rufus.c(1962): error C2065: 'LEFT_TO_RIGHT_EMBEDDING': undeclared identifier
+..\rufus.c(1962): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+..\rufus.c(1962): warning C4024: '_snprintf': different types for formal and actual parameter 3
+..\rufus.c(1962): error C2143: syntax error: missing ')' before 'string'
+..\rufus.c(1962): error C2059: syntax error: ')'
+  stdio.c
+d:\work_data\study\bootfromusb\rufus-master\src\settings.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\stdfn.c)
+  stdlg.c
+  syslinux.c
+..\syslinux.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  dev.c
+..\dev.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\stdio.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\syslinux.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\dev.c)
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\stdlg.c)
+..\stdio.c(197): error C2065: 'RIGHT_TO_LEFT_MARK': undeclared identifier
+..\stdio.c(197): warning C4047: ':': 'int' differs in levels of indirection from 'char [1]'
+d:\work_data\study\bootfromusb\rufus-master\src\settings.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\stdlg.c)
+  vhd.c
+d:\work_data\study\bootfromusb\rufus-master\src\license.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\stdlg.c)
+..\syslinux.c(184): error C2059: syntax error: '?'
+..\syslinux.c(344): error C2059: syntax error: '?'
+d:\work_data\study\bootfromusb\rufus-master\src\dev.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\dev.c)
+..\dev.c(740): error C2065: 'RIGHT_TO_LEFT_MARK': undeclared identifier
+..\dev.c(740): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+..\dev.c(740): warning C4024: 'strncat': different types for formal and actual parameter 2
+..\dev.c(740): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+..\dev.c(740): warning C4024: 'strlen': different types for formal and actual parameter 1
+..\dev.c(756): error C2065: 'RIGHT_TO_LEFT_MARK': undeclared identifier
+..\dev.c(756): warning C4047: ':': 'int' differs in levels of indirection from 'char [1]'
+d:\work_data\study\bootfromusb\rufus-master\src\rufus.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\vhd.c)

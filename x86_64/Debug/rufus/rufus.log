@@ -1,0 +1,48 @@
+﻿  badblocks.c
+  checksum.c
+  dev.c
+  dos.c
+d:\work_data\study\bootfromusb\rufus-master\src\db.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\checksum.c)
+  dos_locale.c
+d:\work_data\study\bootfromusb\rufus-master\src\dev.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\dev.c)
+  drive.c
+  format.c
+  icon.c
+..\dos_locale.c(1020): warning C4819: The file contains a character that cannot be represented in the current code page (0). Save the file in Unicode format to prevent data loss
+  iso.c
+..\iso.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+..\format.c(844): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+..\format.c(1645): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  localization.c
+  net.c
+  parser.c
+..\iso.c(774): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  pki.c
+d:\work_data\study\bootfromusb\rufus-master\src\settings.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\net.c)
+  process.c
+  rufus.c
+  smart.c
+..\smart.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  stdfn.c
+d:\work_data\study\bootfromusb\rufus-master\src\settings.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\rufus.c)
+  stdio.c
+..\rufus.c(1689): warning C4101: 'rcDeviceList': unreferenced local variable
+..\rufus.c(1691): warning C4101: 'sz': unreferenced local variable
+..\rufus.c(1689): warning C4101: 'rcFormatGroup': unreferenced local variable
+..\rufus.c(1688): warning C4101: 'tbLangToolbarButtons': unreferenced local variable
+..\rufus.c(1689): warning C4101: 'rcSelectImage': unreferenced local variable
+..\rufus.c(1689): warning C4101: 'rcBootType': unreferenced local variable
+..\rufus.c(1689): warning C4101: 'rcToolbarButton': unreferenced local variable
+..\rufus.c(1687): warning C4101: 'hLangToolbarImageList': unreferenced local variable
+..\rufus.c(1689): warning C4101: 'rcAdvancedOptions': unreferenced local variable
+..\rufus.c(2219): warning C4101: 'lpnmtb': unreferenced local variable
+..\rufus.c(2210): warning C4101: 'LangToolbarRect': unreferenced local variable
+  stdlg.c
+  syslinux.c
+..\syslinux.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+d:\work_data\study\bootfromusb\rufus-master\src\settings.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\stdfn.c)
+  vhd.c
+d:\work_data\study\bootfromusb\rufus-master\src\settings.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\stdlg.c)
+d:\work_data\study\bootfromusb\rufus-master\src\license.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file ..\stdlg.c)
+  rufus.vcxproj -> D:\WORK_DATA\STUDY\BootFromUSB\rufus-master\x86_64\Debug\rufus.exe
+  rufus.vcxproj -> D:\WORK_DATA\STUDY\BootFromUSB\rufus-master\x86_64\Debug\rufus.pdb (Full PDB)

@@ -1,0 +1,14 @@
+﻿  _cdio_stream.c
+  _cdio_stdio.c
+  util.c
+  utf8.c
+..\utf8.c : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  track.c
+  sector.c
+  read.c
+  memory.c
+  logging.c
+  ds.c
+  disc.c
+  Generating Code...
+  driver.vcxproj -> D:\WORK_DATA\STUDY\BootFromUSB\rufus-master\x86_64\Debug\libcdio-driver.lib

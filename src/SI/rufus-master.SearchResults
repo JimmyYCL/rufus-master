@@ -1,0 +1,15 @@
+---- .bin Matches (15 in 6 files) ----
+Device.h (d:\work_data\study\bootfromusb\rufus-master\src\libcdio\cdio):     Set up BIN/CUE CD disk-image for reading. Source is the .bin or
+Device.h (d:\work_data\study\bootfromusb\rufus-master\src\libcdio\cdio):     Set up BIN/CUE CD disk-image for reading. Source is the .bin or
+Format.c (d:\work_data\study\bootfromusb\rufus-master\src):	safe_sprintf(src, sizeof(src), "%c:\\%s\\setupldr.bin", drive_letter,  basedir[index]);
+Format.c (d:\work_data\study\bootfromusb\rufus-master\src):	// Patch setupldr.bin
+Format.c (d:\work_data\study\bootfromusb\rufus-master\src):	// Remove CRC check for 32 bit part of setupldr.bin from Win2k3
+Format.c (d:\work_data\study\bootfromusb\rufus-master\src):		// Additional setupldr.bin/bootmgr patching
+Iso.c (d:\work_data\study\bootfromusb\rufus-master\src):static const char* isolinux_bin[] = { "isolinux.bin", "boot.bin" };
+Iso.c (d:\work_data\study\bootfromusb\rufus-master\src):static const char* pe_file[] = { "ntdetect.com", "setupldr.bin", "txtsetup.sif" };
+Iso.c (d:\work_data\study\bootfromusb\rufus-master\src):				// Maintain a list of all the isolinux.bin files found
+Iso.c (d:\work_data\study\bootfromusb\rufus-master\src):			// Extract all of the isolinux.bin files we found to identify their versions
+Iso.c (d:\work_data\study\bootfromusb\rufus-master\src):				// Couldn't find a version from isolinux.bin. Force set to the versions we embed
+Mbr_gpt_syslinux.h (d:\work_data\study\bootfromusb\rufus-master\src\ms-sys\inc):/* This version is from gptmbr.bin from syslinux 6.02 */
+Mbr_syslinux.h (d:\work_data\study\bootfromusb\rufus-master\src\ms-sys\inc):/* This version is from mbr.bin from syslinux 6.02 */
+Stdfn.c (d:\work_data\study\bootfromusb\rufus-master\src):		s_attr.bInheritHandle = FALSE;

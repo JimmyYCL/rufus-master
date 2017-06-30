@@ -1,0 +1,6 @@
+﻿  searchdir.c
+  open.c
+  fatchain.c
+  cache.c
+  Generating Code...
+  libfat.vcxproj -> D:\WORK_DATA\STUDY\BootFromUSB\rufus-master\x86_64\Debug\syslinux-libfat.lib

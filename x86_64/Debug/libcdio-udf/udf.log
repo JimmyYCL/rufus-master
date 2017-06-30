@@ -1,0 +1,7 @@
+﻿  udf_time.c
+  udf_fs.c
+  udf_file.c
+  udf.c
+  filemode.c
+  Generating Code...
+  udf.vcxproj -> D:\WORK_DATA\STUDY\BootFromUSB\rufus-master\x86_64\Debug\libcdio-udf.lib
